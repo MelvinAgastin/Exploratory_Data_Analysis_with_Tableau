@@ -1,6 +1,8 @@
 # Exploratory_Data_Analysis_with_Tableau
 This is the EDA findings regarding sales of different products in different regions from a superstore (of United States) using Tableau.
 
+![Superstore_USA](https://github.com/MelvinAgastin/Exploratory_Data_Analysis_with_Tableau/assets/140557465/c09336a2-4fa2-4bbc-84cc-d6419501b5e0)
+
 **Dataset Overview:**
 This dataset offers a treasure trove of information encompassing sales, customer behavior, and product performance across various regions. It provides a comprehensive view of the business landscape. [[Link to Kaggle dataset here.](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)]
 
