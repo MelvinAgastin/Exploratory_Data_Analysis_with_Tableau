@@ -7,14 +7,14 @@ This is the EDA findings regarding sales of different products in different regi
 This dataset offers a treasure trove of information encompassing sales, customer behavior, and product performance across various regions. It provides a comprehensive view of the business landscape. [[Link to Kaggle dataset here.](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)]
 
 **Key Insights:**
-📦 Category: From elegant furniture to cutting-edge tech, this categorical variable classifies products, offering a diverse range of offerings.
-💰 Total Revenue: The lifeblood of any business, reflecting the financial value generated through sales.
-📈 Sold Quantity: Offering valuable insights into customer demand through numerical representation.
-🤑 Discount: A crucial element in pricing strategies, expressed as a percentage.
-💲 Discount Amount: The actual monetary value of discounts, impacting revenue and profit margins.
-📉 Profit: The ultimate outcome, revealing financial gain or loss after accounting for expenses.
-📊 Profit Margin: A key metric for assessing profitability, calculated as profit divided by total revenue.
-💼 COGS: Reflecting expenses associated with producing or acquiring items sold.
+- 📦 Category: From elegant furniture to cutting-edge tech, this categorical variable classifies products, offering a diverse range of offerings.   
+- 💰 Total Revenue: The lifeblood of any business, reflecting the financial value generated through sales.   
+- 📈 Sold Quantity: Offering valuable insights into customer demand through numerical representation.      
+- 🤑 Discount: A crucial element in pricing strategies, expressed as a percentage.    
+- 💲 Discount Amount: The actual monetary value of discounts, impacting revenue and profit margins.    
+- 📉 Profit: The ultimate outcome, revealing financial gain or loss after accounting for expenses.    
+- 📊 Profit Margin: A key metric for assessing profitability, calculated as profit divided by total revenue.   
+- 💼 COGS: Reflecting expenses associated with producing or acquiring items sold.   
 
 **Visualizing Key Insights:**
 
